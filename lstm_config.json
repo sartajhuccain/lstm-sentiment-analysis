@@ -1,0 +1,9 @@
+{
+  "max_words": 30000,
+  "max_len": 250,
+  "threshold": 0.5,
+  "labels": {
+    "negative": 0,
+    "positive": 1
+  }
+}
